@@ -1,4 +1,4 @@
-# Finding the intersection route of Public transport to know# Finding the intersection route of Public transport to know the demand and supply of mobility. ( last_mile_connectivity )
+# Finding the intersection route of Public transport to know the demand and supply of mobility. ( last_mile_connectivity )
 The major problem which metro cities face is the unavailability of direct public transportation from one point of a city to the other. In order to reach a certain destination, people need to switch to various modes of transportation which is really time-consuming as well as a hectic task.
 
 In order to understand this scenario, let’s take the example of some city, say Bangalore, which is famous for its traffic congestion. The situation goes as follows:
