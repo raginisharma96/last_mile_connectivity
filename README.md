@@ -1,4 +1,4 @@
-# last_mile_connectivity
+# Finding the intersection route of Public transport to know the demand and supply mobility. ( last_mile_connectivity )
 The major problem which metro cities face is the unavailability of direct public transportation from one point of a city to the other. In order to reach a certain destination, people need to switch to various modes of transportation which is really time-consuming as well as a hectic task.
 
 In order to understand this scenario, let’s take the example of some city, say Bangalore, which is famous for its traffic congestion. The situation goes as follows:
@@ -13,14 +13,14 @@ Other scenario is that it might be possible that his office/desired destination 
 
 In order to deal with such situations, we have come up with a few ideas according to our daily experiences which are as follows:
 
-There must be a point of location where people frequently change their buses in order to reach their destinations. We need to locate such points and set up Bounce Bike Stations so that it gets easier for people to take Bounce rides and reach their destination at a faster rate than usual. This also increases the chance of Bounce Bikes being used as a medium of transport to reach their destination.
+There must be a point of location where people frequently change their buses in order to reach their destinations. We need to locate such points and set up self-driving  Bike Stations so that it gets easier for people to take self-driving  rides and reach their destination at a faster rate than usual. This also increases the chance of self-driving  Bikes being used as a medium of transport to reach their destination.
 
-The set up of Bounce Bike stations at such locations also eases the daily transportation of people by making their arrivals early. For example, if we have Bounce Bikes near Bus stands then people will not have to wait for the next bus in order to reach their desired location. They can directly book Bounce Bikes and take a hassle-free ride. People who have the desire to reach early and don’t feel like walking that long distance can also book bounce rides.
+The set up of self-driving  Bike stations at such locations also eases the daily transportation of people by making their arrivals early. For example, if we have self-driving  Bikes near Bus stands then people will not have to wait for the next bus in order to reach their desired location. They can directly book self-driving  Bikes and take a hassle-free ride. People who have the desire to reach early and don’t feel like walking that long distance can also book self-driving  rides.
 
 One more benefit can be added by reducing the cost per head. Let’s say there’s this situation where a person X books a ride and is ready to go to his destination. Now, there is some other person Y who also is in need of a ride in order to reach early and has to take the same route as X is! Now what we can do is provide an option for X to share his ride with Y. This will have two major benefits.
 
-------> First, it will help all those people who do not have any Driving License or don’t know how to drive. This can easily help them take this shared ride and reach their destination as early as possible. This makes efficient use of Bounce Bikes and also reduces the pollution which would have been caused if two Bikes would have been booked. Such an Environment-friendly step!!!
+------> First, it will help all those people who do not have any Driving License or don’t know how to drive. This can easily help them take this shared ride and reach their destination as early as possible. This makes efficient use of self-driving  Bikes and also reduces the pollution which would have been caused if two Bikes would have been booked. Such an Environment-friendly step!!!
 
-------> Second, we can offer the first rider, i.e. X to be eligible for certain amount of discount which will be paid by the second rider Y. Since X is now the captain and is driving, why should he not get any perks of providing this service!! This way both the riders can share their costs which reduces the burden on one. Though X will enjoy this discount, it will not have any effect on the total cost of Bounce Rides.
+------> Second, we can offer the first rider, i.e. X to be eligible for certain amount of discount which will be paid by the second rider Y. Since X is now the captain and is driving, why should he not get any perks of providing this service!! This way both the riders can share their costs which reduces the burden on one. Though X will enjoy this discount, it will not have any effect on the total cost of self-driving  Rides.
 
 This way we can help the local public ease their lives, get some discount as well as impress their Bosses by reaching office on time!
