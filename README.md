@@ -11,15 +11,15 @@ Collected Public Transport Data(Bus Data) from BMTC Site.
 ## Tech Stack Used 
 1. Python 3.x
 2. Requests
-lxml
-pickle
-pandas
-ordered_set
-seaborn
-matplotlib
-gmplot
-geopy
-flask
+3. lxml
+4. pickle
+5. pandas
+6. ordered_set
+7. seaborn
+8. matplotlib
+9. gmplot
+10. geopy
+11. flask
 
 Steps To Run Server
 1. First scrap public bus route data.
