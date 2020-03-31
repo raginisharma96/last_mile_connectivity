@@ -22,6 +22,6 @@ geopy
 flask
 
 Steps To Run Server
-First Scarp Public bus Route Data.
+1. First scrap public bus route data.
 
 
