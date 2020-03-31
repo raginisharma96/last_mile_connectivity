@@ -9,8 +9,8 @@ There must be a point of location where people frequently change their buses in 
 Collected Public Transport Data(Bus Data) from BMTC Site. 
 
 ## Tech Stack Used 
-Python 3.x
-Requests
+1. Python 3.x
+2. Requests
 lxml
 pickle
 pandas
