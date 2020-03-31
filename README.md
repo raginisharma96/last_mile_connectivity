@@ -9,17 +9,17 @@ There must be a point of location where people frequently change their buses in 
 Collected Public Transport Data(Bus Data) from BMTC Site. 
 
 ## Tech Stack Used 
-1. Python 3.x
-2. Requests
-3. lxml
-4. pickle
-5. pandas
-6. ordered_set
-7. seaborn
-8. matplotlib
-9. gmplot
-10. geopy
-11. flask
+#### Environment - Python3
+1. Requests
+2. lxml
+3. pickle
+4. pandas
+5. ordered_set
+6. seaborn
+7. matplotlib
+8. gmplot
+9. geopy
+10. flask
 
 ## Steps To Run Server
 1. First scrap public bus route data.
